@@ -6,4 +6,3 @@ At the end of a long narrow hallway you catch a qiuck glance of a tall slim man 
 What do you do?  
 [Follow him into the room?](upstairs-dead.md)  
 [Seach for weapon](weapon-upstairs.md)
-

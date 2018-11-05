@@ -6,4 +6,6 @@ It turns out you are in the bathroom.
 
 You suddenly feel a cool rush run through your body making the hairs on your arms stand. 
 
-D
+You think to yourself "I have two options. 1. [Run out and leave the house](run-out.md) or 2. [Continue to look for a weapon](look-weapon.md)"
+
+What do you do?

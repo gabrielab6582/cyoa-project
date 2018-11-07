@@ -7,3 +7,4 @@ What do you do?
 
 [Follow him into the room?](upstairs-dead.md)  
 [Seach for weapon](weapon-upstairs.md)
+[Go back home](../home.md)

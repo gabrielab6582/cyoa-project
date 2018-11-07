@@ -9,4 +9,4 @@ You suddenly feel a cool rush run through your body making the hairs on your arm
 You think to yourself "I have two options".
 
 1. [Run out and leave the house](run-out.md) 
-2. [Continue to look for a weapon](look-weapon.md)
+2. [Continue to look for a weapon](continued-search-wepon.md)

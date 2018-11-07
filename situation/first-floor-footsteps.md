@@ -4,3 +4,5 @@ You are looking around the house. You notice the house is old, every footstep yo
 1.[Go upstairs to check it out](upstairs-man-at-door.md)
 
 2.[Remain on first floor](enter-livingrm.md)
+
+[Go back home](../home.md)

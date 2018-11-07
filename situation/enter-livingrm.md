@@ -4,4 +4,6 @@ You look around the living room and you see the tv is not working there's no rec
 
 1.[Investigate the chair](situation-outcome-4.md)
 
-2[Proceed to kitchen](situation-outcome-3.md)
+2. [Proceed to kitchen](situation-outcome-3.md)
+
+[Go back home](../home.md)

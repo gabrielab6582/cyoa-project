@@ -10,4 +10,4 @@ You think to yourself "I have two options".
 
 [Run out and leave the house](run-out.md) 
 
-[Continue to look for a weapon](continued-search-wepon.md)
+[Continue to look for a weapon](continued-search-weapon.md)

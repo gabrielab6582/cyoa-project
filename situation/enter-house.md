@@ -12,3 +12,5 @@ Where are you going?
 [Upstairs](upstairs-man-at-door.md)    
 [Living room](first-floor-footsteps.md)  
 [Basement](dark-basement.md)    
+
+Return to [Intro](../README.md)

@@ -1,9 +1,11 @@
 ## You grab the flashlight
 
-It doesnt have much battery
-But you can finally actually see around you and you come across this old creapy door
-Your gut tells you this isn't right but you think its cool so what do you do
+It doesnt have much battery.    
+But you can finally actually see around you and you come across an old sinister door.  
+Your gut tells you this isn't right but in the back of your mind your curiosity tells you the opposite.  
 
-[explore the room](room-explore.md)
+[Explore the room](room-explore.md)  
 
-[Go back upstairs](first-floor-footsteps.md)
+[Go back upstairs](first-floor-footsteps.md)  
+
+[Go back home](../home.md)
